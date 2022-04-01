@@ -1,0 +1,8 @@
+Cliente
+Servidor
+DNS
+Engine de Renderização
+Requisição
+Resposta
+HTTP
+200 OK
