@@ -1,47 +1,46 @@
-#!/bin/bash
+#!/bin/bah
 
-# Exercícios 1
+# Exercício 1
 
 ps
 
-
-# Exercícios 2
+# Exercício 2
 
 sleep 30 &
 
-# Exercícios 3
+# Exercício 3
 
-ps | grep sleep
+ps| grep sleep
 kill PID
 
-# Exercícios 4
+# Exercício 4
 
 sleep 30
 bg
 
-# Exercícios 5
+# Exercício 5
 
 sleep 300&
 
-# Exercícios 6
+# Exercício 6
 
 sleep 200&
 ctrl+z
 sleep 100&
 ctrl+z
 
-# Exercícios 7
+# Exercício 7
 
 jobs
 fg %1
 ctrl+z
 
-# Exercícios 8
+# Exercício 8
 
 bg %3
 jobs
 
-# Exercícios 9
+# Exercício 9
 
 ps| grep sleep
 kill PID

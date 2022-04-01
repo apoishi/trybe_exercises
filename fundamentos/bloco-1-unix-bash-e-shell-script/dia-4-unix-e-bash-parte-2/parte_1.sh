@@ -1,17 +1,17 @@
 #!/bin/bash
 
-# Exercícios 1
+# Exercício 1
 
 cd unix_tests
 
-# Exercícios 2
+# Exercício 2
 
 cat > skills2.txt
 Internet
 Unix
 Bash
 
-# Exercícios 3
+# Exercício 3
 
 cat >> skills2.txt
 Javascript
@@ -20,38 +20,38 @@ Python
 React
 Node
 
-# Exercícios 4
+# Exercício 4
 
 cat skills2.txt | wc -l
 
-# Exercícios 5
+# Exercício 5
 
 cat skills2.txt | sort | head -3 > top_skills.txt
 
-# Exercícios 6
+# Exercício 6
 
  cat > phrases2.txt
  phrases
 
-# Exercícios 7
+# Exercício 7
 
 cat phrases2.txt| grep br | wc -l
 
-# Exercícios 8
+# Exercício 8
 
 cat phrases2.txt| grep -v br | wc -l
 
-# Exercícios 9
+# Exercício 9
 
 cat >> phrases2.txt
 Estados Unidos
 China
 
-# Exercícios 10
+# Exercício 10
 
 cat phrases2.txt countries.txt > bunch_of_things.txt
 
 
-# Exercícios 11
+# Exercício 11
 
 sort -o bunch_of_things.txt
