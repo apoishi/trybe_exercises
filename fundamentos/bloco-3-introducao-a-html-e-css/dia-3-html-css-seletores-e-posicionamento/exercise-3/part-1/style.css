@@ -1,0 +1,18 @@
+/* Align h1 and p text to center.*/
+h1, p{
+text-align: center;
+}
+
+/* Change the background color of the list when the the cursor is over the item.*/
+ul :hover {
+	background-color: blue;
+}
+/* Change the font-family of the item when clicked.*/
+li :active {
+	font-family: 'Courier New', Courier, monospace;
+
+}
+/*Add list-style: none for both lists.*/
+ul, ol {
+	list-style:none;
+}
