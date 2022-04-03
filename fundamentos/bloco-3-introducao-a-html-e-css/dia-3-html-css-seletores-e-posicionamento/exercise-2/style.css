@@ -1,0 +1,40 @@
+/* Position Mario above Goomba.*/
+.super-mario {
+  width: 100px;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+
+.goomba {
+  width: 100px;
+  position: absolute;
+  top: 300px;
+  left: 100px;
+}
+
+/* Position the baloon to become a speech from Bowser.*/
+.baloon {
+  position: absolute;
+  top: 150px;
+  left: 300px;
+  z-index: 1;
+
+}
+
+/* Position the tag p to be inside the speech ballon.*/
+.speach {
+  font-size: 25px;
+  position: absolute;
+  top: 190px;
+  left: 320px;
+  z-index: 2;
+
+}
+
+.bowser {
+  width: 200px;
+  position: absolute;
+  top: 300px;
+  left: 570px;
+}
