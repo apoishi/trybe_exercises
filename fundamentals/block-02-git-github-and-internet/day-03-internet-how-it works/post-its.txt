@@ -1,0 +1,10 @@
+Describe the parts (protocols, resources, mechanisms, etc) involved when we send a request from a client to a server.
+
+Client
+Server
+DNS
+Rendering Engine
+Request
+Response
+HTTP
+200 OK

@@ -1,0 +1,42 @@
+/* Change the size of h1 to 65 pixels, the text color to orange, font-family to sans-serif and add text-decoration.*/
+h1{
+	font-size: 65px;
+	color: orange;
+	font-family: sans-serif;
+	text-decoration: underline;
+}
+
+/* Change the background color of the unordered list.*/
+ul{
+	background-color: blue;
+}
+
+/* Create a class to modify the background color of the p and ul tag at the same time.*/
+.new-color{
+	background-color: aquamarine;
+}
+
+/* Change the font-size of the body to 16px.Explore font-style, line-height and text-align.*/
+body{
+	font-size: 16px;
+	font-style: italic;
+	line-height: 100 px;
+	text-align: justify;
+}
+
+/* Leave the paragraph with font-weight 600. Set the size of 3 times the default body size.*/
+p{
+	font-size: 3em;
+	font-weight: 600;
+}
+
+/* Change the background color of each item in the list to the color corresponding to the text.*/
+#yellow{
+	color: yellow;
+}
+#red{
+	color:red;
+}
+#brown{
+	color:brown;
+}

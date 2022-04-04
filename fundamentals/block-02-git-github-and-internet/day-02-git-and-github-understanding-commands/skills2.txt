@@ -1,0 +1,10 @@
+Technologies that I will learn at Trybe.
+
+- Unix
+- Bash
+- Git
+- HTML
+- CSS
+- Javascript
+- Python
+- Soft Skills
