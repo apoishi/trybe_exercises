@@ -1,0 +1,73 @@
+/* All Ordered Lists items should have a yellow background color. If the item numbering is EVEN, make the font color green. If the number is considered ODD, use the text-transform property to capitalize the text. (Hint: combining classes can be useful here).*/
+ol li {
+	background-color: yellow;
+}
+
+ol li:nth-child(even) {
+	color: green;
+}
+
+ol li:nth-child(odd) {
+	text-transform: uppercase;
+}
+
+/* All Header tags (h1, h2...) should have a red font color, and if any of them are italicized, increase their size to 40px and add a solid black 1px border.*/
+h1, h3 {
+	color: red;
+}
+
+h1 em, h3 em {
+	font-size: 40px;
+	border: 1px solid black;
+}
+
+/* All lists should have 20px font size, and for all its text in italics, use the font-weight property to make it bold.*/
+li {
+	font-size: 20px;
+}
+
+li em {
+	 font-weight: bold;
+ }
+
+ /* In the linguagens de programação list, the first 3 languages in the list should have a blue font color and, if there is "java" in the text, use a pink background color.*/
+
+ #languages li:not(:nth-child(n+4)){ /* This selector puts blue font color on all the elements except 4 and up.*/
+	 color: blue;
+ }
+
+ .pink-bg {
+	 background-color: pink;
+ }
+
+ /* (Bonus) For each link in the allies de uma pessoa desenvolvedora list, the text should be bold when the mouse hover over it and assume the "site-themed" font color
+Tip 1: Use the :hover selector to control the mouse hover.
+Tip 2: Default color suggestion. StackOverflow (orange), W3Schools (green), MDN (black), DevDocs (yellow), Trybe (green). */
+#allies li a {
+	text-decoration: none;
+	color:black;
+  }
+
+  #allies li a:hover {
+	font-weight: 700;
+  }
+
+  #allies li a[href*="stackoverflow"]:hover {
+	color: orange;
+  }
+
+  #allies li a[href*="w3schools"]:hover {
+	color: green;
+  }
+
+  #allies li a[href*="mozilla"]:hover {
+	color: black;
+  }
+
+  #allies li a[href*="devdocs"]:hover {
+	color: yellow;
+  }
+
+  #allies li a[href*="trybe"]:hover {
+	color: green;
+  }
