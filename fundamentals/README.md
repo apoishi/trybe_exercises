@@ -1,4 +1,4 @@
-## The Fundamentals is divided into four parts:
+## The Fundamentals are divided into four parts:
 
 1. For starters, we will study a little about a famous type of operating system called UNIX . Let's get down to business and run some commands in the terminal.
 2. Once we understand how the commands work and we've created our first scripts, we'll learn how to use Git to store them securely. In addition, I will also understand what the Internet is and how it works.
