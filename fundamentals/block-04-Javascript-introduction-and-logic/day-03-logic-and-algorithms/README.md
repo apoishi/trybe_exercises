@@ -19,7 +19,7 @@ Write two algorithms: one that returns the largest word in this array and one th
 
 n = 5
 
-*****
+\*\*\*\*\*
 *****
 *****
 *****
