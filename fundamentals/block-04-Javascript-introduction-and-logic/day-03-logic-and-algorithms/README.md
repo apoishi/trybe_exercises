@@ -20,48 +20,49 @@ Write two algorithms: one that returns the largest word in this array and one th
 n = 5
 
 \*\*\*\*\*\
-\*\*\*\*\*
-\*\*\*\*\*
-\*\*\*\*\*
-\*\*\*\*\*
+\*\*\*\*\*\
+\*\*\*\*\*\
+\*\*\*\*\*\
+\*\*\*\*\*\
 
 2. For the second exercise, do the same as the previous one, but print a right triangle with 5 base asterisks. For example:
 
 n = 5
 
-\*
-\*\*
-\*\*\*
-\*\*\*\*
-\*\*\*\*\*
+\*\
+\*\*\
+\*\*\*\
+\*\*\*\*\
+\*\*\*\*\*\
 
 3. Now invert the side of the triangle. For example:
 
 n = 5
 
-   \*
-   \*\*
-  \*\*\*
- \*\*\*\*
-\*\*\*\*\*
+   \*\
+   \*\*\
+  \*\*\*\
+ \*\*\*\*\
+\*\*\*\*\*\
+
 Attention! Note that this exercise is much more complex than the previous one! It is not enough here to print only asterisks. You will need logic to print spaces as well.
 
 4. Then make a pyramid with n base asterisks:
 
 n = 5
 
-  \*
- \*\*\*
-*****
+  \*\
+ \*\*\*\
+\*\*\*\*\*\
 
 5. Make a pyramid with n base asterisks that is empty in the middle. Assume that the value of n will always be odd. Finally, let's make the variable increment with the value corresponding to each loop;
 
 n = 7
 
-   \*
-  \* \*
- \* \*
-\*\*\*\*\*\*\*
+   \*\
+  \* \*\
+ \*   \*\
+\*\*\*\*\*\*\*\
 
 6. Write a program that tells if a number defined in a variable is prime or not.
 A prime number is a number that is only divisible by 1 and itself, that is, dividing it with any other numbers gives a non-zero remainder.
