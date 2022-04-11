@@ -1,6 +1,6 @@
 ## Exercises
 
-Read the instructions carefully and do what is asked! We will use this array to perform exercises 1 to 7:
+Read the instructions carefully. We will use this array to perform exercises 1 to 7:
 
 let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 
@@ -17,7 +17,7 @@ let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 
 ## Bonus
 
-For the next two exercises _[read this article] (http://devfuria.com.br/logica-de-programacao/exemplos-na-linguagem-c-do-algoritmo-bubble-sort/)_ and try to understand what is happening in the code below:
+For the next two exercises _[read this article](http://devfuria.com.br/logica-de-programacao/exemplos-na-linguagem-c-do-algoritmo-bubble-sort/)_ and try to understand what is happening in the code below:
 
 for (let index = 1; index < array.length; index += 1) {
   for (let secondIndex = 0; secondIndex < index; secondIndex += 1) {
