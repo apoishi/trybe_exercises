@@ -19,20 +19,20 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 - [x] 2-2: _Understanding the commands_
 - [x] 2-3: _Internet - Understanding how it works_
 
-##### Block 3: Introduction - HTML & CSS ⏳
+##### Block 3: Introduction - HTML & CSS ✅
 
 - [x] 3-1: _HTML & CSS - Page Structures_
 - [x] 3-2: _HTML & CSS - Getting Started with CSS_
-- [ ] 3-3: _HTML & CSS - Selectors and Positioning_
-- [ ] 3-4: _Semantic HTML_
-- [ ] 3-5: _[Project - HTML & CSS]()_
+- [x] 3-3: _HTML & CSS - Selectors and Positioning_
+- [x] 3-4: _Semantic HTML_
+- [x] 3-5: _[Project - HTML & CSS]()_
 
 ##### Block 4: Introduction - JavaScript ⏳
 
-- [ ] 4-1: _JavaScript - Getting Started_
-- [ ] 4-2: _JavaScript - Array and For_ loop
-- [ ] 4-3: _JavaScript - Programming Logic and Algorithms_
-- [ ] 4-4: _JavaScript - Objects and Functions_
+- [x] 4-1: _JavaScript - Getting Started_
+- [x] 4-2: _JavaScript - Array and For_ loop
+- [x] 4-3: _JavaScript - Programming Logic and Algorithms_
+- [x] 4-4: _JavaScript - Objects and Functions_
 - [ ] 4-5: _[Project - Playground Functions]()_
 
 ##### Block 5: Introduction - JavaScript - Projects ⏳
