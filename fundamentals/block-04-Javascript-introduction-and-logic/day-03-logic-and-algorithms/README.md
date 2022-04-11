@@ -39,11 +39,11 @@ n = 5
 
 n = 5
 
-        \*\
-      \*\*\
-    \*\*\*\
-  \*\*\*\*\
-\*\*\*\*\*
+          *
+         **
+        ***
+       ****
+      *****
 
 Attention! Note that this exercise is much more complex than the previous one! It is not enough here to print only asterisks. You will need logic to print spaces as well.
 
@@ -58,7 +58,6 @@ n = 5
 5. Make a pyramid with n base asterisks that is empty in the middle. Assume that the value of n will always be odd. Finally, let's make the variable increment with the value corresponding to each loop;
 
 n = 7
-
      \*\
    \*   \*\
  \*       \*\
