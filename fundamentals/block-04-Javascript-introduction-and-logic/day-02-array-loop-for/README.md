@@ -17,7 +17,7 @@ let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 
 ## Bonus
 
-For the next two exercises [read this article] (http://devfuria.com.br/logica-de-programacao/exemplos-na-linguagem-c-do-algoritmo-bubble-sort/) and try to understand what is happening in the code below:
+For the next two exercises _[read this article] (http://devfuria.com.br/logica-de-programacao/exemplos-na-linguagem-c-do-algoritmo-bubble-sort/)_ and try to understand what is happening in the code below:
 
 for (let index = 1; index < array.length; index += 1) {
   for (let secondIndex = 0; secondIndex < index; secondIndex += 1) {
@@ -59,7 +59,6 @@ console.log(indexOfPortfolio);
 3. Add the value "Contact" at the end of the menu array:
 
 let menu = ['Home', 'Services', 'Portfolio', 'Links'];
-
 console.log(menu);
 
 **Practice - 02**
