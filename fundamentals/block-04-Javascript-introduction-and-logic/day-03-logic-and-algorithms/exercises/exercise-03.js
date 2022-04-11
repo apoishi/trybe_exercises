@@ -1,0 +1,18 @@
+let array = ['java', 'javascript', 'python', 'html', 'css'];
+
+let smallestWord = array [0];
+let biggestWord = array [0];
+
+for (let index = 1; index < array.length; index += 1) {
+	if( array[index].length < smallestWord.length) {
+		smallestWord = array [index];
+	}
+}
+console.log(smallestWord);
+
+for (let index = 1; index < array.length; index += 1) {
+	if( array[index].length > biggestWord.length) {
+		biggestWord = array [index];
+	}
+}
+console.log(biggestWord);
