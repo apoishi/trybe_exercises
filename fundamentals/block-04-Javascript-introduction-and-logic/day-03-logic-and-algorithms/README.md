@@ -19,14 +19,10 @@ Write two algorithms: one that returns the largest word in this array and one th
 
 n = 5
 
+\*\*\*\*\*\
 \*\*\*\*\*
-
 \*\*\*\*\*
-
 \*\*\*\*\*
-
-\*\*\*\*\*
-
 \*\*\*\*\*
 
 2. For the second exercise, do the same as the previous one, but print a right triangle with 5 base asterisks. For example:
