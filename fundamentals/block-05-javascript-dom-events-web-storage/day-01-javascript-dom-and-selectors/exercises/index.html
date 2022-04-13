@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício 5.1</title>
+
+    <style>
+      main, section {
+        border-color: black;
+        border-style: solid;
+      }
+
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin: 0 auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1 class="title">Exercício 5.1 - JavaEscripito </h1>
+    </header>
+    <main class="main-content">
+      <section class="center-content">
+        <p>Texto padrão do nosso site</p>
+        <p>-----</p>
+        <p>Trybe</p>
+      </section>
+    </main>
+    <script>
+//  Inside script is where all changes are made.
+    </script>
+  </body>
+</html>
+
+<!-- exercise -01 -->
+function changeText() {
+	let paragraph = document.getElementsByTagName('p')[1];
+	paragraph.innerHTML = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue, mi ut convallis tempor, risus leo gravida dolor, pulvinar dapibus nulla mauris sed eros. Ut ac iaculis leo!"
+  }
+  changeText();
+
+  <!-- exercise - 02 -->
+  function changeColorToGreen() {
+	  let yellowSquare = document.getElementsByClassName('main-content')[0];
+	  yellowSquare.style.backgroundColor = 'rgb(76,164,109)';
+  }
+changeColorToGreen();
+
+<!-- exercise - 03 -->
+function changeColorToWhite() {
+	let redSquare = document.getElementsByClassName('center-content')[0];
+	redSquare.style.backgroundColor = 'white';
+}
+changeColorToWhite();
+
+<!-- exercise - 04 -->
+function correctText() {
+let h1 = document.getElementsByTagName('h1')[0];
+h1.innerText = 'Javascript';
+}
+correctText();
+
+<!-- exercise - 05 -->
+function modifyText() {
+	let paragraph = document.getElementsByTagName('p')[0];
+		paragraph.innerHTML = paragraph.innerHTML.toUpperCase();
+	}
+modifyText();
+
+<!-- exercise - 06 -->
+function showParagraphs() {
+	let paragraphs = document.getElementsByTagName('p');
+	for(let index = 0; index < paragraphs.length; index += 1) {
+		console.log(paragraphs[index].innerHTML);
+	}
+}
+showParagraphs();
