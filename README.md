@@ -27,13 +27,13 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 - [x] 3-4: _Semantic HTML_
 - [x] 3-5: _[Project - HTML & CSS]()_
 
-##### Block 4: Introduction - JavaScript ⏳
+##### Block 4: Introduction - JavaScript ✅
 
 - [x] 4-1: _JavaScript - Getting Started_
 - [x] 4-2: _JavaScript - Array and For_ loop
 - [x] 4-3: _JavaScript - Programming Logic and Algorithms_
 - [x] 4-4: _JavaScript - Objects and Functions_
-- [ ] 4-5: _[Project - Playground Functions]()_
+- [x] 4-5: _[Project - Playground Functions]()_
 
 ##### Block 5: Introduction - JavaScript - Projects ⏳
 
