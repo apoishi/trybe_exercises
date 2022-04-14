@@ -3,7 +3,7 @@
 Modify the existing elements using only the functions:
 * document.getElementById()
 * document.getElementsByClassName()
-*document.getElementsByTagName()
+* document.getElementsByTagName()
 
 1. Create a function that changes the text in the p tag to a description of how you see yourself in 2 years. (Don't spend time thinking about the text, but doing the exercise)
 2. Create a function that changes the color of the yellow square to the green of the Trybe (rgb(76,164,109)).
