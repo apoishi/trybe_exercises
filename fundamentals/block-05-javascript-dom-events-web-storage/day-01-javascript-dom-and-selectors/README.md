@@ -29,5 +29,5 @@ Modify the existing elements using only the functions:
 
 **Practice - 03**
 
-1.Put your knowledge of getElementBy and querySelector to work.
+1. Put your knowledge of getElementBy and querySelector to work.
 
