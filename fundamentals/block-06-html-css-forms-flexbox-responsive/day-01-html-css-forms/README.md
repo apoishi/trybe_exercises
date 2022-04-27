@@ -3,7 +3,7 @@
 The exercise today will be to develop a web page with the TrybeTrip form. Develop it into a file called form.html .
 1. The form should allow the user to enter the following fields:
 * Full name:
- * Limited between 10 and 40 characters.
+	* Limited between 10 and 40 characters.
 * Email:
  * Limited between 10 and 50 characters.
 * Preferred Destination:
