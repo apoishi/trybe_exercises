@@ -35,7 +35,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 - [x] 4-4: _JavaScript - Objects and Functions_
 - [x] 4-5: _[Project - Playground Functions]()_
 
-##### Block 5: Introduction - JavaScript - Projects ⏳
+##### Block 5: Introduction - JavaScript - Projects  ✅
 
 - [ ] 5-1: _JavaScript - DOM and selectors_
 - [ ] 5-2: _JavaScript - Working with elements_
@@ -49,7 +49,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 
 ##### Block 6: Advanced HTML & CSS ⏳
 
-- [ ] 6-1: _HTML & CSS - Forms_
+- [x] 6-1: _HTML & CSS - Forms_
 - [ ] 6-2: _JavaScript Libraries and CSS Frameworks_
 - [ ] 6-3: _CSS Flexbox - Part 1_
 - [ ] 6-4: _CSS Flexbox - Part 2_
