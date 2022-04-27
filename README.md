@@ -37,12 +37,12 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 
 ##### Block 5: Introduction - JavaScript - Projects  ✅
 
-- [ ] 5-1: _JavaScript - DOM and selectors_
-- [ ] 5-2: _JavaScript - Working with elements_
-- [ ] 5-3: _JavaScript - Events_
-- [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Project - Meme Generator]()_
-- [ ] 5-6: _[Project - Pixel Art]()_
+- [x] 5-1: _JavaScript - DOM and selectors_
+- [x] 5-2: _JavaScript - Working with elements_
+- [x] 5-3: _JavaScript - Events_
+- [x] 5-4: _JavaScript - Web Storage_
+- [x] 5-5: _[Project - Meme Generator]()_
+- [x] 5-6: _[Project - Pixel Art]()_
 - [ ] 5-7: _[Project - Task List]()_
 - [ ] 5-7: _[Project - Guess the Color]()_
 - [ ] 5-7: _[Project - Mystery Letter]()_
