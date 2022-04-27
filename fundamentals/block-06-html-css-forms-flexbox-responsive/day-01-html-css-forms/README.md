@@ -5,18 +5,18 @@ The exercise today will be to develop a web page with the TrybeTrip form. Develo
 * Full name:
 	* Limited between 10 and 40 characters.
 * Email:
- * Limited between 10 and 50 characters.
+	* Limited between 10 and 50 characters.
 * Preferred Destination:
- * 4 options: City, Countryside, Beach, Mountains.
+	* 4 options: City, Countryside, Beach, Mountains.
 * Why should you be the developer to win the TrybeTrip contest?
- * Limit of 500 characters.
+	* Limit of 500 characters.
 * What is the best date to make your trip?
 * Would you like to receive other amazing opportunities offered by Trybe?
 * I agree that images from my vacations may be used to advertise future contests.
 These will be the main fields used in the next exercises.
 2. Create a button to submit the filled information.
 Now let's use some javascript, for that create the script.js file and reference it in the HTML.
-* Tip: Put the script tag at the end of your body.
+	* Tip: Put the script tag at the end of your body.
 3. Stop the default behavior of the submit button using the preventDefault() method. Our friend Carol Silva told us a little about how to do this, remember?
 4. Create a button that clears the information contained in the fields;
 
