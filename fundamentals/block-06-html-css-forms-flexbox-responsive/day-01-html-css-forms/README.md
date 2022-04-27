@@ -1,4 +1,4 @@
-##Exercises
+## Exercises
 
 The exercise today will be to develop a web page with the TrybeTrip form. Develop it into a file called form.html .
 1. The form should allow the user to enter the following fields:
