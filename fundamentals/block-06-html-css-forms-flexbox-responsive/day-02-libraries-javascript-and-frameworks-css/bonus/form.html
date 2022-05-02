@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario-TrybeTrip</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="pikaday.css">
+    <script src="https://unpkg.com/just-validate@latest/dist/just-validate.production.min.js"></script>
+  </head>
+  <body>
+	<h1 class="display-6 text-center"> Concorra à viagem dos seus sonhos com a TrybeTrip!</h1>
+	<form class="container" id="form">
+		<fieldset>
+			<label class="form-label" for="full-name">Nome Completo:</label>
+			<input class="form-control" type="text" name="name" id="full-name" placeholder="Digite seu nome completo"
+				maxlength="40" minlength="10" required>
+			<br>
+			<br>
+			<label class="form-label" for="input-email">Email:</label>
+			<input class="form-control" type="email" name="email" id="input-email" placeholder="Digite seu email"
+				maxlength="50" minlength="10" required>
+			<br>
+			<p>Destino Preferido</p>
+			<div class="form-check">
+				<label class="form-check-label" for="input-destination1">Cidade</label>
+				<input class="form-check-input" type="radio" name="destination1" id="input-destination1"
+					className="radios" value="cidade">
+			</div>
+			<div class="form-check">
+				<label class="form-check-label" for="input-destination2">Campo</label>
+				<input class="form-check-input" type="radio" name="destination2" id="input-destination2"
+					className="radios" value="campo">
+			</div>
+			<div class="form-check">
+				<label class="form-check-label" for="input-destination3">Montanhas</label>
+				<input class="form-check-input" type="radio" name="destination3" id="input-destination3"
+					className="radios" value="montanha">
+			</div>
+			<div class="form-check">
+				<label class="form-check-label" for="input-destination4">Praia</label>
+				<input class="form-check-input" type="radio" name="destination4" id="input-destination4"
+					className="radios" value="praia">
+			</div>
+			<br>
+			<label class="form-label" for="why">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso
+				TrybeTrip?</label>
+			<br>
+			<textarea class="form-control" name="why" id="why" cols="30" rows="5"
+				placeholder="Digite sua resposta vencedora aqui."></textarea>
+			<br>
+			<label class="form-label" for="input-date">Qual a melhor data para realizar sua viagem?</label>
+			<input class="form-control" type="text" name="date" id="input-date">
+			<br>
+			<br>
+			<div class="form-check">
+				<input class="form-check-input" type="checkbox" name="info" id="input-more-info">
+				<label class="form-check-label" for="input-more-info">Gostaria de receber outras incríveis oportunidades
+					oferecidas pela Trybe?
+				</label>
+			</div>
+
+			<div class="form-check">
+				<input class="form-check-input" type="checkbox" name="imagem ferias" id="agreement">
+				<label class="form-check-label" for="agreement">Concordo que imagens das minhas férias poderão ser
+					usadas na divulgação de
+					concursos futuros. </label>
+			</div>
+			<br>
+		</fieldset>
+		<br>
+		<button class="btn btn-success" type="submit" id="submit-btn">Enviar</button>
+		<button class="btn btn-secondary" type="button" id="clear-btn">Apagar</button>
+	</form>
+	<!-- Scripts das bibliotecas -->
+	<script src="moment.js"></script>
+	<script src="pikaday.js"></script>
+	<script src="script.js"></script>
+</body>
+
+</html>
