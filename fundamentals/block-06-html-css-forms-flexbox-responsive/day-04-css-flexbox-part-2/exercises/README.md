@@ -8,7 +8,7 @@
 
 #### Exercise 02
 - Add a Flexbox property that modifies the order in which the logo and menu items appear on the screen. After applying the property, the header should be similar to the image below:
-![Example](/part-01/images/image-02.jpeg)
+![Example](part-01/images/image-02.jpeg)
 
 #### Exercise 03
 - Add a Flexbox property that makes the menu container grow, when there is space available. After applying the property, the header should be similar to the image below:
