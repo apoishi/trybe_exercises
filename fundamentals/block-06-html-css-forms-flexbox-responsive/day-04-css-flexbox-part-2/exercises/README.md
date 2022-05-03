@@ -16,13 +16,13 @@
 
 #### Exercise 04
 - Use the align-self property on the correct element so that the page header has the following behavior:
-![Example](/part-01/images/image-04.jpeg)
+![Example](part-01/images/image-04.jpeg)
 
 ### Part II
 
 #### Exercise 01
 - Apply a 350px base to your aside container. It should look similar to the image below:
-![Example](/part-02/images/image-01.jpeg)
+![Example](part-02/images/image-01.jpeg)
 
 #### Exercise 02
 - Apply an alignment to center and another to expand to aside container. It should look similar to the image below:
