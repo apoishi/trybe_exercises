@@ -16,7 +16,7 @@
 
 #### Exercise 04
 - Use the align-self property on the correct element so that the page header has the following behavior:
-![Example](../part-02/images/image-04.jpeg)
+![Example](../images/image-04.jpeg)
 
 ### Part II
 
