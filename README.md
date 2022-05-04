@@ -41,20 +41,16 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 - [x] 5-2: _JavaScript - Working with elements_
 - [x] 5-3: _JavaScript - Events_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _[Project - Meme Generator]()_
 - [x] 5-6: _[Project - Pixel Art]()_
-- [ ] 5-7: _[Project - Task List]()_
-- [ ] 5-7: _[Project - Guess the Color]()_
-- [ ] 5-7: _[Project - Mystery Letter]()_
 
 ##### Block 6: Advanced HTML & CSS ⏳
 
 - [x] 6-1: _HTML & CSS - Forms_
-- [ ] 6-2: _JavaScript Libraries and CSS Frameworks_
-- [ ] 6-3: _CSS Flexbox - Part 1_
-- [ ] 6-4: _CSS Flexbox - Part 2_
+- [x] 6-2: _JavaScript Libraries and CSS Frameworks_
+- [x] 6-3: _CSS Flexbox - Part 1_
+- [x] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _Responsive CSS - Mobile First_
-- [ ] 6-6: _[Project - Facebook Home]()_
+- [ ] 6-6: _[Project - Trybewarts]()_
 
 ##### Block 7: JavaScript ES6 & Unit Tests ⏳
 
