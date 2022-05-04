@@ -22,20 +22,20 @@
 
 #### Exercise 01
 - Apply a 350px base to your aside container. It should look similar to the image below:
-![Example](images/part-02-image-01.jpeg)
+![Example](images/part-02-image-01.png)
 
 #### Exercise 02
 - Apply an alignment to center and another to expand to aside container. It should look similar to the image below:
-![Example](images/part-02-image-02.jpeg)
+![Example](images/part-02-image-02.png)
 
 #### Exercise 03
 - Add a property that makes your movie container have a base of 700px and another base of 16% for the div of your card's container. It should look similar to the image below:
-![Example](images/part-02-image-03.jpeg)
+![Example](images/part-02-image-03.png)
 
 #### Exercise 04
 - Apply a property with the value 10 that expands the movie container. It should look similar to the image below:
-![Example](images/part-02-image-04.jpeg)
+![Example](images/part-02-image-04.png)
 
 #### Exercise 05
 - Add a property with the value 1 that makes your movie container div occupy all the white space. It should look similar to the image below:
-![Example](images/part-02-image-05.jpeg)
+![Example](images/part-02-image-05.png)
