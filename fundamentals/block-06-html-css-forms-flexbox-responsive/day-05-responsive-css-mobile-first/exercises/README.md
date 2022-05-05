@@ -34,8 +34,9 @@ Where should the chapter list be positioned?
 ### Part III
 
 1 - Add a media query in the CSS file and the necessary rules for the page to look like the image below when it is printed. Specifically:
-Elements with id header, navigation and footer should disappear;
+Elements with id header, navigation and footer should disappear.
 The element with id aside should be shown below the main content.
+
 ![Example](images/image-printer.webp)
 
 2 - Add a media query in the CSS file and the necessary rules for the page to look like the images below when the screen is resized to smaller widths. Specifically:
@@ -44,6 +45,7 @@ The body element must not have padding;
 Images must not exceed the width of the screen;
 Items within the navigation element must each appear on their own line;
 The element with id header must be fixed, so that it always appears at the top of the screen even after the user scrolls the page.
+
 ![Example](images/image-01.webp)
 
 ![Example](images/image-02.webp)
