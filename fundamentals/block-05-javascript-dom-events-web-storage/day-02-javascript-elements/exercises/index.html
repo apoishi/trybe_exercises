@@ -59,37 +59,85 @@
 
 <body>
 	<script>
+		
+		// Exercise - 01
 		const elementH1 = document.createElement('h1');
 		elementH1.innerText = 'Exercício 5.2 - JavaScript DOM';
 		document.body.appendChild(elementH1);
 
+		// Exercise - 02
 		const elementMain = document.createElement('main');
 		elementMain.className = 'main-content';
 		document.body.appendChild(elementMain);
 
+		// Exercise - 03
 		const elementSectionCenter = document.createElement('section');
 		elementSectionCenter.className = 'center-content';
 		elementMain.appendChild(elementSectionCenter);
 
+		// Exercise - 04
 		const paragraph = document.createElement('p');
 		paragraph.innerText = 'Hello';
 		elementSectionCenter.appendChild(paragraph);
 
+		// Exercise - 05
 		const elementSectionLeft = document.createElement('section');
 		elementSectionLeft.className = 'left-content';
 		elementMain.appendChild(elementSectionLeft);
 
+		// Exercise - 06
 		const elementSectionRight = document.createElement('section');
 		elementSectionRight.className = 'right-content';
 		elementMain.appendChild(elementSectionRight);
 
+		// Exercise - 07
 		const elementImg = document.createElement('img');
 		elementImg.className = 'small-image';
 		elementImg.src = 'https://picsum.photos/200';
 		elementSectionLeft.appendChild(elementImg);
 
+		// Exercise - 08
+		const elementUl = document.createElement('ul');
+		elementSectionRight.appendChild(elementUl);
+		const arrayNumbers = ['Um', 'Dois', 'Três', 'Quatro', 'Cinco', 'Seis',
+			'Sete', 'Oito', 'Nove', 'Dez']
+		for (let num in arrayNumbers) {
+			const elementLi = document.createElement('li');
+			elementLi.innerHTML = arrayNumbers[num];
+			elementUl.appendChild(elementLi);
+		}
 
+		// Exercise - 09
+		for (let index = 1; index <= 3; index += 1) {
+			const elementH3 = document.createElement('h3');
+			elementH3.innerHTML = 'Show ' + index;
+			elementMain.appendChild(elementH3);
+		}
 
+		//   Alterations Exercise - 01
+		const title = document.querySelector('h1');
+		title.className = 'title';
+
+		// Exercise - 02
+		const elementsH3 = document.getElementsByTagName('h3');
+		for (let index = 0; index < 3; index += 1) {
+			elementsH3[index].className = 'description';
+		}
+		// Exercise - 03
+		const elementSectionLeft = document.getElementsByClassName('left-content')[0];
+		elementMain.removeChild(elementSectionLeft);
+
+		// Exercise - 04
+		const elementSectionRight = document.getElementsByClassName('right-content')[0];
+		elementSectionRight.style.marginRight = 'auto';
+
+		// Exercise - 05
+		const elementSectionCenter = document.getElementsByClassName('center-content')[0];
+		elementSectionCenter.parentNode.style.backgroundColor = 'green';
+
+		// Exercise - 05
+		ul.lastChild.remove();
+		ul.lastChild.remove();
 
 	</script>
 </body>

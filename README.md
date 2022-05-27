@@ -43,76 +43,72 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 - [x] 5-4: _JavaScript - Web Storage_
 - [x] 5-6: _[Project - Pixel Art]()_
 
-##### Block 6: Advanced HTML & CSS ⏳
+##### Block 6: HTML & CSS: Forms, Flexbox and Responsive  ✅
 
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _JavaScript Libraries and CSS Frameworks_
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
-- [ ] 6-5: _Responsive CSS - Mobile First_
-- [ ] 6-6: _[Project - Trybewarts]()_
+- [x] 6-5: _Responsive CSS - Mobile First_
+- [x] 6-6: _[Project - Trybewarts]()_
 
-##### Block 7: JavaScript ES6 & Unit Tests ⏳
+##### Block 7: JavaScript ES6 & Unit Tests  ✅
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _Unit tests in JavaScript_
-- [ ] 7-4: _[Project - JavaScript Unit Tests]()_
+- [x] 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
+- [x] 7-2: _JavaScript ES6 - Objects_
+- [x] 7-3: _First steps in Jest_
+- [x] 7-4: _Unit tests in JavaScript_
+- [x] 7-4: _[Project - JavaScript Unit Tests]()_
 
-##### Block 8: JavaScript ES6 ⏳
+##### Block 8: JavaScript ES6  ✅
 
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map and filter_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
-- [ ] 8-5: _[Project - Zoo functions]()_
-
-##### Block 9: Asynchronicity & Callbacks ⏳
-
-- [ ] 9-1: _Asynchronous JavaScript and Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Project - Shopping Cart]()_
-
-##### Block 10: Jest ⏳
-
-- [ ] 10-1: _Getting Started in Jest_
-- [ ] 10-2: _Jest - Asynchronous Tests_
-- [ ] 10-3: _Jest - Simulating behaviors_
-- [ ] 10-4: _[Project - Async Jest and Mocking]()_
+- [x] 8-1: _JavaScript ES6 - Introduction to Higher Order Functions_
+- [x] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [x] 8-3: _JavaScript ES6 - Higher Order Functions - map and filter_
+- [x] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
+- [x] 8-6: _[Project - Zoo functions]()_
 
 ## Front-end development :hourglass_flowing_sand:
 
-##### Block 11: Introduction - React ⏳
+##### Block 9: Javascript and Asynchronicity ⏳
+- [ ] 9-1: _Introduction to Front-end_
+- [ ] 9-1: _Asynchronous JavaScript and Callbacks_
+- [ ] 9-2: _JavaScript Asynchronous - Fetch API and async/await_
+- [ ] 9-1: _Jest - Asynchronous tests_
+- [ ] 9-4: _[Project - Shopping Cart]()_
+
+##### Block 10: Introduction - React ⏳
 
 - [ ] 11-1: _'Hello, world!' in React!_
 - [ ] 11-2: _React Components_
 - [ ] 11-3: _[Project - Movie Cards Library]()_
 
-##### Block 12: React ⏳
+##### Block 11: React ⏳
 
 - [ ] 12-1: _Stateful Components_
 - [ ] 12-2: _Events and forms in React_
 - [ ] 12-3: _[Project - Stateful Movie Cards Library]()_
 
-##### Block 13: React ⏳
+##### Block 12: React ⏳
 
 - [ ] 13-1: _Improving the reuse of components: props.children and PropTypes_
 - [ ] 13-2: _Lifecycle of components in React_
 - [ ] 13-3: _React Router_
 - [ ] 13-4: _[Project - Movie Cards Library CRUD]()_
 
-##### Block 14: Agile Methodologies ⏳
+##### Block 13: Agile Methodologies ⏳
 
 - [ ] 14-1: _Agile Methodologies_
 - [ ] 14-2: _[Project - Frontend Online Store]()_
 
-##### Block 15: Tests in React ⏳
+##### Block 14: Tests in React ⏳
 
 - [ ] 15-1: _Testing React with the React Testing Library_
 - [ ] 15-2: _Testing React with the React Testing Library - Part 2_
 - [ ] 15-3: _[Project - Tests in React]()_
 
-##### Block 16: Introduction to Redux ⏳
+##### Block 15: Introduction to Redux ⏳
 
 - [ ] 16-1: _Introduction to Redux_
 - [ ] 16-2: _React with Redux - Part 1_
@@ -121,21 +117,21 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 - [ ] 16-5: _Synchronous tests with React-Redux_
 - [ ] 16-6: _[Project - Table with data filters]()_
 
-##### Block 17: React Project ⏳
+##### Block 16: React Project ⏳
 
 - [ ] 17-1: _[Project - Trivia Game]()_
 
-##### Block 18: React & Context API ⏳
+##### Block 17: React & Context API ⏳
 
 - [ ] 18-1: _Context API from React_
 - [ ] 18-2: _React Hooks - useState and useContext_
 - [ ] 18-3: _React Hooks - useEffect and custom Hooks_
 - [ ] 18-4: _[Project - StarWars Datatable with Context API and Hooks]()_
 
-##### Block 19: Final Front-end Project ⏳
+##### Block 18: Final Front-end Project ⏳
 
-- [ ] 19-1: _[Project - Recipe App]()_
+- [ ] 18-1: _[Project - Recipe App]()_
 
 ## Backend development :hourglass_flowing_sand:
 
-##### Block 20:
+##### Block 19:

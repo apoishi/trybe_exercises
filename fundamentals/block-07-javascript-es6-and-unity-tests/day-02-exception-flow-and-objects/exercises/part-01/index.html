@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang='pt-BR'>
+
+<head>
+	<meta charset='UTF-8'>
+	<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+	<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+	<title>Calculadora</title>
+</head>
+
+<body>
+	<p>Informe dois números para realizar a soma:</p>
+	<label for='value1'>Valor 1:</label>
+	<input type='text' id='value1'>
+	<label for='value2'>Valor 2:</label>
+	<input type='text' id='value2'>
+	<button id='button'>Somar</button>
+	<p id='result'></p>
+	<script>
+		function verifyValues(value1, value2) {
+			if(isNaN(value1) || isNaN(value2)) { //NaN Not-a-Number, returns true if a value is NaN. If the value typed is not a number, the error message below is shown.
+				throw new Error ('Informe apenas números para realizar a soma');
+			}
+			if (!value1 || !value2) {
+				throw new Error('Informe os dois valores para realizar a soma');
+			} //Exercise 01 - this function checks if value1 or value2 exists, if not, the error message will be shown. The catch will handle the error message.
+		}
+
+		function sum() {
+			try { // this block of code is executed if no error is found in function verifyIsnumber.
+				const value1 = document.getElementById('value1').value;
+				const value2 = document.getElementById('value2').value;
+				verifyValues(value1, value2);
+				const result = parseInt(value1) + parseInt(value2);//parseInt parses a value as a string and returns the first integer.
+				document.getElementById('result').innerHTML = `Resultado: ${result}`;
+				document.getElementById('value1').value = '';
+				document.getElementById('value2').value = '';
+			} catch (error) { // block that will handle the error, the message will be shown in inner.html
+				document.getElementById('result').innerHTML = `Erro: ${error.message}`;
+			} finally { // to clean the inputs
+				document.getElementById('value1').value = '';
+				document.getElementById('value2').value = '';
+			}
+		}
+
+		window.onload = () => { // after the page is loaded the button will be the last one to be handled.
+			const button = document.getElementById('button');
+			button.addEventListener('click', sum);
+		}
+	</script>
+</body>
+
+</html>
