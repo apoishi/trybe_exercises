@@ -1,4 +1,4 @@
-##Exercises
+## Exercises
 
 🚀 1. The dezDaysList array contains the last two days of November and the days of the month of December. Develop a function that dynamically creates each calendar day and adds them as children of the <ul> tag with ID "days". Note that the 29th and 30th of November are in the array as they represent Sunday and Monday respectively.
 The days must be contained in a <li> tag, and all must have the day class. Ex: <li class="day">3</li>
@@ -37,7 +37,7 @@ When clicking on the element again, its class should go back to being just a tas
 🚀 10. Implement a function that adds an event that, when clicking on a day of the month in the calendar, assigns this day the color of the caption of your selected task.
 When you click again on the day with the legend color, its color should return to the initial setting rgb(119,119,119).
 
-##Bonus
+## Bonus
 
 Implement a function that, when typing an appointment in the "COMPROMISSOS" text box, adds the item to the "MEUS COMPROMISSOS" list by clicking the "ADD" button.
 If no characters are entered in the input field, the function should return an alert with an error message when clicking "ADICIONAR".

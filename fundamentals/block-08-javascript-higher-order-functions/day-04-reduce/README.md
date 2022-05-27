@@ -1,4 +1,4 @@
-##Exercises
+## Exercises
 
 1. Given an array, transform into an array.
 

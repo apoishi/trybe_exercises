@@ -1,4 +1,4 @@
-##Exercises
+## Exercises
 
 🚀 1. Create an array with strings in the format BOOK_NAME - BOOK_GENRE - AUTHOR_PERSON_NAME
 Tip: Use the map function

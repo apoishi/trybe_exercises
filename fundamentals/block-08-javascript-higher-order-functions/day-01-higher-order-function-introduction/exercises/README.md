@@ -1,4 +1,4 @@
-##Exercises
+## Exercises
 
 1. Create a function that returns an object in the form { FullName, email } representing a new person hired. Pass your function as a parameter of the HOF newEmployees to create each person hired under their respective id. Your function must receive as a parameter the full name of the employee and from that automatically generate an email in the format person_name@trybe.com.
 

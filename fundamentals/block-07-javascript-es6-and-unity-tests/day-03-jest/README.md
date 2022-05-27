@@ -1,4 +1,4 @@
-##Exercises
+## Exercises
 
 Practicing test implementation. You will implement several tests in different contexts in order to consolidate the mechanics and also the way of thinking about tests. Copy the already implemented functions and develop the tests. Separate functions and tests into different files to avoid any kind of problem. Create the files with the respective function name. Ex: sum.js and sum.test.js
 
@@ -16,6 +16,6 @@ In Block 4 you developed a project to test your knowledge of Javascript and prog
 
 🚀 6. The hydrate function receives a string in the form "drink number", and returns the suggestion of how many glasses of water you should drink to hydrate. For every drink, you should have a glass of water to avoid having a hangover. Implement the hydrate function from the given tests. Try refactoring the function you created for the Playground Function project! It is important never to change tests or variables already written in the code.
 
-##Bonus
+## Bonus
 
 🚀 1. Are you ready for a challenge?! In this exercise, you will practice test-driven development by implementing: The function; Tests for this function; Consider the data below. You must create a function that receives two parameters: the id of the employee and the information available about him (firstName, lastName, specialties). You must also create the tests for this function. Your function should then return the results of the search for the id for that employee and the information queried. If the id is not in the staff, your function should return the error "Unidentified ID". If the information to be accessed does not exist, the function should return the error "Information unavailable".

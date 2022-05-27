@@ -1,4 +1,4 @@
-##Exercises
+## Exercises
 
 🚀 1. Find the name of the first person author of the book born in the year 1947.
 Tip: use the find function.

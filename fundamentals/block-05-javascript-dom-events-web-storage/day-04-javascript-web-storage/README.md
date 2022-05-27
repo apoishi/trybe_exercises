@@ -1,4 +1,4 @@
-##Exercises
+## Exercises
 
 Imagine that you are the person responsible for developing a page that will serve as a reader for written content.
 This written content could be a book page, a magazine report, or an online newspaper note. So that you don't have to think about the content of the page, use this [link](https://www.lipsum.com/) to generate the text for your page.

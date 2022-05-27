@@ -1,4 +1,4 @@
-##Exercises
+## Exercises
 
 1. Given the code below, complete it so that the area of ​​the 3 rectangles is printed. The code must return in sequence 2, 15 and 54.
 Tip: use spread operator.
