@@ -1,8 +1,0 @@
-/* Pikaday CSS - link do Github */
-@import './node_modules/pikaday/css/pikaday.css';
-
-* {
-	margin: 10;
-	padding: 0;
-	box-sizing: border-box;
-  }
