@@ -1,4 +1,4 @@
-##Exercises
+## Exercises
 
 🚀 1. Create a new project using npx create-react-app app-name and access the app-name folder
 ⚠️ Replace the app-name with whatever you want for your app ⚠️
